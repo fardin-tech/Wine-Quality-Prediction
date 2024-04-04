@@ -13,6 +13,6 @@ COLUMNS:
   quality: float64
 
 
-  TARGET_COLUMN:
-    name: quality
+TARGET_COLUMN:
+  name: quality
     
