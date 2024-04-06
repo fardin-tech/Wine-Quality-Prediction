@@ -28,3 +28,6 @@ conda activate mlproj
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+https://wine-quality-prediction-ror0.onrender.com/
+```
